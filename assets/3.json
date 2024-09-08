@@ -1,0 +1,16 @@
+{
+    "name": "Number #0004",
+    "symbol": "NB",
+    "description": "Collection of 10 numbers on the blockchain. This is the number 4/10.",
+    "seller_fee_basis_points": 500,
+    "image": "3.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "3.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}

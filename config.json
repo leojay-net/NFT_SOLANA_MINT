@@ -1,0 +1,35 @@
+{
+"number": 10,
+"symbol": "NB",
+"sellerFeeBasisPoints": 500,
+"isMutable": true,
+"isSequential": false,
+"ruleSet": null,
+"creators": [
+    {
+        "address": "E8jFPJFBJ2JhqD1kBnJqF3kbasasXYjKzoWCcfokYcUy",
+        "share": 100
+    }
+],    
+"splTokenAddress": "9NpcmMHgZsJFV1foUDYVF7aTvc2qfBfjkZSL4Ww5w7sg",
+"uploadMethod": "bundlr",
+"awsS3Bucket": null,
+"retainAuthority": true,
+"awsConfig": null,
+"nftStorageAuthToken": null,
+"shdwStorageAccount": null,
+"pinataConfig": null,
+"hiddenSettings": null,
+"guards": {
+    "default": {
+      "tokenPayment": {
+        "amount": 1000000000,
+        "mint": "9NpcmMHgZsJFV1foUDYVF7aTvc2qfBfjkZSL4Ww5w7sg",
+        "destinationAta": "E8jFPJFBJ2JhqD1kBnJqF3kbasasXYjKzoWCcfokYcUy"
+      },
+      "startDate": {
+        "date": "2022-10-23T20:00:00Z"
+      }
+    }
+  }
+}
